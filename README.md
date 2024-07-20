@@ -28,7 +28,7 @@ A simple weather forecast website that allows users to get current weather infor
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/weather-website.git
+    git clone https://github.com/1001amit/weather-website.git
     ```
 2. Navigate to the project directory:
     ```sh
